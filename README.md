@@ -32,7 +32,7 @@ The Research document for this unit is listed below:
 
 ***
 
-![Content Strategy](https://i.gyazo.com/967dc3151d9c0d1b30a04a4712281910.png)
+![Content Strategy](https://i.gyazo.com/2c3d5c582d55b23160235ac818fae360.png)
 
 ###**Content Strategy**
 
